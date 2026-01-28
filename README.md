@@ -1,0 +1,1 @@
+A very basic notes app that uses next.js and nextauth.js on the front end and AWS Cognito, Lambdas, API Gateway, and DynamoDB on the back end.
